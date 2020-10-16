@@ -6,6 +6,8 @@ console.log(cars)
 
 cars.push('VW')
 
+abcd
+
 console.log(cars)
 
 console.log(cars.length);
