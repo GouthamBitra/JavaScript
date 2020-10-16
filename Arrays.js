@@ -6,7 +6,7 @@ console.log(cars)
 
 cars.push('VW')
 
-abcd
+//abcd
 
 console.log(cars)
 
